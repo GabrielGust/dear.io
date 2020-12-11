@@ -26,7 +26,9 @@
   </head>
   <body class='notesBody'>  
     <div class='navbar'>
-      <img class='logo-navbar' src='../images/logo.svg' alt='logo'>
+      <a class='logoLink' href='https://github.com/GabrielGust/dear.io'>
+        <img class='logo-navbar' src='../images/logo.svg' alt='logo'>
+      </a>
       <nav>
         <ul class='links-navbar'>
           <li><p class='text-navbar'>O lugar perfeito para suas anotações</p></li>

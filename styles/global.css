@@ -36,6 +36,12 @@ nav li, p {
     0px 2px 1px -1px rgba(0, 0, 0, 0.12);
 }
 
+.logoLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .links-navbar {
   list-style: none;
 }
