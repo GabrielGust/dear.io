@@ -127,11 +127,11 @@ $ localhost/dear-io
 
 ## 👨‍💻 Contributors
 
-💜 Um super thanks 👏 para essa galera que fez esse produto sair do campo da ideia e entrar nas lojas de aplicativos :)
+💙 Special thx Special thanks to my duo and my teacher :)
 
 <table>
   <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64936666?s=460&u=7ba67b1a242bd80ec6acc822550fa977c80923b6&v=4" width="100px;" alt=""/><br /><sub><b>Agata Ramos</b></sub></a><br /><a href="https://github.com/AgataRamos" title="AgataRamosGitHubProfile">👨‍🚀</a></td>    
+    <td align="center"><a href="https://github.com/AgataRamos"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64936666?s=460&u=7ba67b1a242bd80ec6acc822550fa977c80923b6&v=4" width="100px;" alt=""/><br /><sub><b>Agata Ramos</b></sub></a><br /><a href="https://github.com/AgataRamos" title="AgataRamosGitHubProfile">👩🏻‍💻</a></td>    
   </tr>    
 </table>
 
