@@ -13,7 +13,7 @@
 
 <p align="center">
  • <a href="#-about">About</a> •
- <a href="#-Features">Features</a> •
+ <a href="#-features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
 </p>
@@ -118,3 +118,11 @@ $ C:\xampp\htdoc
 $ localhost/dear-io
 
 ```
+
+## 📝 Licence
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Made with ❤️ by Gabriel Gustavo [Contact](https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/)
+
+---
