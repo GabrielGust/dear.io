@@ -11,7 +11,6 @@
  <a href="#-features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
 </p>
 
 
@@ -58,7 +57,7 @@ Some prints of the project's look:
 This project is divided into two parts:
 1. Frontend (branch master) 
 2. Backend (assets directory)
-3. DataBase (branch sqlscript)
+3. DataBase (MySQLScript directory)
 
 💡 It is important to remember that <b>if the database script is not executed, the application will not work!</b>.
 
@@ -81,7 +80,7 @@ $ cd dear-io
 
 # Start your WAMP / XAMPP
 
-# Go to the folder sqlscript and execute the script in PHPMyAdmin or MySQL Workbench
+# Go to the folder MySQLScript and execute the all the script in PHPMyAdmin or MySQL Workbench
 
 # After running all the script commands your database will be done
 
