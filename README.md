@@ -4,7 +4,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GabrielGust/dear.io">
 </div>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65090609/101951467-cee32e80-3bd5-11eb-863c-3ac1c981b0a8.png" alt="Dear.io project logo">
+    <img src="https://user-images.githubusercontent.com/65090609/101951536-ec17fd00-3bd5-11eb-8bb3-53e6273f8af6.png" alt="Dear.io project logo">
 </div>
 
 <h4 align="center"> 
