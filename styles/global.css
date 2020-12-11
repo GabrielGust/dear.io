@@ -1,0 +1,61 @@
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+}
+
+body, input, button{
+  font: 400 18px Poppins, sans-serif;
+}
+
+nav li, p {
+  font-family: 600 16px Nunito, sans-serif;
+  color: black;
+}
+
+.text-navbar {
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.navbar {
+  display: flex;
+  width: 100% ;
+  justify-content: space-between;
+  background: #272727;
+  align-items: center;
+  padding: 4px 2%;
+
+  box-shadow:  0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.links-navbar {
+  list-style: none;
+}
+
+.links-navbar li {
+  display: inline-block;
+  padding: 0px 15px;
+}
+
+.logoutButton-navbar {
+  padding: 2px 10px;
+  border: none;
+  border-radius: 3px;
+  transition: all 0.3s ease 0s;
+  color: #ffffff;
+  background: #272727;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+}
+
+.logoutButton-navbar:hover {
+  color: #ffffff65;
+}

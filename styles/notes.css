@@ -1,0 +1,237 @@
+.notesBody {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  width: 100%;
+  background: #121212;
+}
+
+.notes-page {
+  width: 100vw;
+  height: 100vh;
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;  
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+::-webkit-scrollbar {
+  margin-left: 20px;
+  width: 5px;
+  background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #a0a0a0;
+  border-radius: 40px;
+  margin-left: 20px;
+}
+
+.notes-card {
+  background: #272727;
+  width: 60%;
+  height: 87%;
+
+  border-radius: 1px;
+
+  padding: 25px 25px 15px 25px;
+
+  display: flex;
+  flex-direction: column;
+
+  box-shadow:  0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.header-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title-card {
+  color: #ffffff;
+  font-size: 26px;
+}
+
+.body-card {
+  overflow: auto;
+  overflow-x: hidden;
+  padding-right: 5px;
+
+  height: 100%;
+}
+
+.card-background {
+  background: #f7f7f7;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  border-radius: 3px;
+  transition: all 0.2s ease 0s;
+
+  box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.2),
+    0px 3px 4px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 3px -2px rgba(0, 0, 0, 0.12); 
+}
+
+.card-background:hover {
+  background: #cbd2d9;
+}
+
+.noteInfos {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.noteName {
+  color: #000000c6;
+  margin-top: 5px;
+  font-weight: 600;
+
+  font-size: 18px;  
+}
+
+.noteDate {
+  color: #000000b9;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.buttonGroup {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;  
+  align-items: center;
+}
+
+.deleteNotes-button {
+  background: #7e7e7e 40%;
+  padding: 6px 11px 6px 11px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+
+  border: 0px;
+  border-radius: 3px;
+  text-decoration: none;
+
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+
+  transition: all 0.3s ease 0s;
+}
+
+.deleteNotes-button:hover {
+  background: #f44336;
+  padding: 9px 18px 9px 11px;
+  margin-right: 0px;
+
+  font-size: 19px;
+  color: #ffffff;
+
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.editNotes-button {
+  background: #b1b1b1 40%;
+  padding: 6px 11px 6px 11px;
+  margin-left: 10px;
+
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+
+  border: 0px;
+  border-radius: 3px;
+  text-decoration: none;
+
+  box-shadow:  0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12); 
+
+  transition: all 0.3s ease 0s;
+}
+
+.editNotes-button:hover {
+  background: #81c784;
+  padding: 9px 11px 9px 18px;
+
+  font-size: 19px;
+  color: #ffffff;
+
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.footer-body {
+  margin-top: 12px;
+
+  justify-self: flex-end;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.createNote-button {
+  background: #626262 40%;
+  padding: 2px 13px 2px 13px;
+  margin-left: 0px;
+
+  border: 0px;
+  border-radius: 3px;
+
+  font-size: 22px;
+
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12); 
+
+  transition: all 0.4s ease 0s;
+}
+ 
+.createNote-button:hover {
+  padding: 2px 25px 2px 25px;
+  background: #DD352E;
+
+  font-size: 20px;
+
+  color: #ffffff;
+
+  box-shadow:  0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
