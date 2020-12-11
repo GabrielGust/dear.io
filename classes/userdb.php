@@ -21,5 +21,5 @@ class UserDB
     $read = $this->connection->prepare("select * from Users where email= ?");
     $read->execute([$email]);
     return $read->fetchAll(PDO::FETCH_OBJ);
-  }s
+  }
 }
