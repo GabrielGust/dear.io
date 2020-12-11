@@ -8,7 +8,7 @@
 
 <p align="center">
  • <a href="#-about">About</a> •
- <a href="#-features">Features</a> •
+ <a href="#-Features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
 </p>
