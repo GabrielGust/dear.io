@@ -20,9 +20,9 @@
         <p class="signUpMessage">Faça seu cadastro</p>
         <?php SignUpMessage(); ?>
 
-        <input class="emailSignUp-input" type="email" name="email" placeholder="E-mail">
-        <input class="passwordSignUp-input" type="password" name="password" placeholder="Senha">
-        <input class="confirmPasswordSignUp-input" type="password" name="confirmPassword" placeholder="Confirmar senha">
+        <input class="emailSignUp-input" type="email" name="email" placeholder="E-mail" maxlength = "33" required>
+        <input class="passwordSignUp-input" type="password" name="password" placeholder="Senha" maxlength = "25" required>
+        <input class="confirmPasswordSignUp-input" type="password" name="confirmPassword" placeholder="Confirmar senha" maxlength = "25" required>
 
         <button class="signUpSubmit-button" type="submit">Cadastrar</button>
 

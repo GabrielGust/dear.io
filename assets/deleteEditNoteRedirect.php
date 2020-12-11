@@ -1,5 +1,5 @@
 <?php
-require_once '../classes/notedb.php';
+require_once 'autoloader.php';
 
 session_start();
 

@@ -1,5 +1,5 @@
 <?php
-require_once 'classes/userdb.php';
+require_once 'autoloader.php';
 
 session_start();
 
@@ -15,7 +15,7 @@ if(empty($email)){
 } else {
   if(filter_var($email, FILTER_VALIDATE_EMAIL)){
     if ($userConnect->getUser($email)){
-      $_SESSION['signUpMessage'] = 'Este usuário já existe';
+      $_SESSION['signUpMessage'] = 'Este e-mail já foi cadastrado';
       header("Location: ../signup.php");
     } else {    
       if(empty($password)){        

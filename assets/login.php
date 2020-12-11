@@ -1,5 +1,5 @@
 <?php
-require_once '../classes/userdb.php';
+require_once 'autoloader.php';
 
 session_cache_expire(60);
 session_start();

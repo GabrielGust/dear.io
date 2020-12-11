@@ -4,7 +4,7 @@
   session_start();
 
   if (isset($_SESSION['loginLembrado'])){
-    header("Location: login.php");
+    header("Location: assets/login.php");
   }
 
 ?>
@@ -23,7 +23,6 @@
     <div class="login-page">  
       <form class="loginForm" action="assets/login.php" method="POST">
         <p class="loginMessage">Entre em seu dear.io<img class='loginIcon' src='images/icon.svg' alt='logo'></p>
-        <!-- <img src='../images/logo.svg' alt='logo'> -->
         <?php LoginErrorMessage(); ?>
 
         <input class="emailLogin-input" type="email" name="email" placeholder="E-mail" required>

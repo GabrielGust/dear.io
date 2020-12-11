@@ -59,3 +59,18 @@ nav li, p {
 .logoutButton-navbar:hover {
   color: #ffffff65;
 }
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+::-webkit-scrollbar {
+  margin-left: 20px;
+  width: 5px;
+  background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #a0a0a0;
+  border-radius: 40px;
+  margin-left: 20px;
+}

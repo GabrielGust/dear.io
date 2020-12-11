@@ -1,13 +1,14 @@
 <?php
-  require_once '../classes/notedb.php';
+  require_once 'autoloader.php';
   date_default_timezone_set('America/Sao_Paulo');
+  setlocale(LC_ALL, 'pt_BR');
   session_start();
 
   if(isset($_POST['goEditThis'])){
     if(isset($_SESSION['id_note'])){
       $title = $_POST['titleNote'];
       $content = $_POST['content'];
-      $date = date("Y/m/d h:i:s");
+      $date = date("Y/m/d H:i:s");
       $id = $_SESSION['id_note'];
 
       if($content && !trim($content) || empty($content)){
@@ -24,7 +25,7 @@
       $title = $_POST['titleNote'];
       $content = $_POST['content'];
       $idUser = $_SESSION['id_user'];
-      $date = date("Y/m/d h:i:s");
+      $date = date("Y/m/d H:i:s");
 
       if($content && !trim($content) || empty($content)){      
         $_SESSION['contentError'] = 'Insira pelo menos algum conteúdo para criar uma nota';

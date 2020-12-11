@@ -45,11 +45,11 @@
           <form class="note-form" action='../assets/editCreateNote.php' method='POST'>
 
             <div class="headerForm-form">
-              <textarea class="titleNote-textarea" name="titleNote" <?php echo isset($_SESSION['id_note']) ? null : 'placeholder="Escolha um título"';?> ><?php echo isset($_SESSION['id_note'])  ? $noteTitle : null;?></textarea>
+              <textarea class="titleNote-textarea" name="titleNote" maxlength = "50"<?php echo isset($_SESSION['id_note']) ? null : 'placeholder="Escolha um título"';?> ><?php echo isset($_SESSION['id_note'])  ? $noteTitle : null;?></textarea>
             <div>
             <?php ContentErrorMessage() ?>
             <div class="bodyForm-form">
-              <textarea class="content-textarea" name='content' <?php echo isset($_SESSION['id_note']) ? null : 'placeholder="Escreva sua anotação"';?> ><?php echo isset($_SESSION['id_note']) ? $noteContent : null;?></textarea>
+              <textarea class="content-textarea" name='content' maxlength = "2400"<?php echo isset($_SESSION['id_note']) ? null : 'placeholder="Escreva sua anotação"';?> ><?php echo isset($_SESSION['id_note']) ? $noteContent : null;?></textarea>
             </div>
           </form>
         </div>
