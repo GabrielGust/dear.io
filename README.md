@@ -34,19 +34,19 @@
 ## ⚙️ Features
 
 - [x] New users can register easily with just:
-  - [x] email
-  - [x] password
+  - [x] E-mail (max size: 2400)
+  - [x] Password (max size: 2400)
   
 - [x] With your created account the user can:
-  - [x] create notes
-  - [x] view all notes
-  - [x] change notes
-  - [x] delete notes
+  - [x] Create notes 
+  - [x] View all notes
+  - [x] Change notes
+  - [x] Delete notes
 
 - [x] The notes have:
-  - [x] title
-  - [x] content
-  - [x] date
+  - [x] Title (max size: 50)
+  - [x] Content (max size: 2400)
+  - [x] Date/time (real time based on your server host)
 ---
 
 ## 🎨 Layout
