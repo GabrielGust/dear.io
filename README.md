@@ -119,6 +119,19 @@ $ localhost/dear-io
 
 ```
 
+## 🦸 Autor
+
+<a href="https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/65090609?s=460&u=7439510aef27e2e881033aa12c2fe840f6743ed8&v=4" width="100px;" alt="Foto de perfil"/>
+ <br />
+ <sub><b>Gabriel Gustavo</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/)](https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielaraujotinoco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaraujotinoco@gmail.com)](mailto:gabrielaraujotinoco@gmail.com)
+
+---
+
 ## 📝 Licence
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
