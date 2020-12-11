@@ -27,15 +27,13 @@
 
 📓 dear.io is virtual diary project allows you to create, read, change and delete whenever you want. Project totally made with HTML5, CSS, PHP and MySQL.
 
-
 ---
-
 
 ## ⚙️ Features
 
 - [x] New users can register easily with just:
-  - [x] E-mail (max size: 2400)
-  - [x] Password (max size: 2400)
+  - [x] E-mail (max size: 33)
+  - [x] Password (max size: 25)
   
 - [x] With your created account the user can:
   - [x] Create notes 
@@ -47,11 +45,15 @@
   - [x] Title (max size: 50)
   - [x] Content (max size: 2400)
   - [x] Date/time (real time based on your server host)
+  
+- [x] Anoter features:
+  - [x] Simple 'remember me' system
+  - [x] LogOut button
 ---
 
 ## 🎨 Layout
 
-Some prints of the project's look:
+Some videos of the project's look:
 
 ![teste](https://user-images.githubusercontent.com/65090609/101859977-7ff0b700-3b4b-11eb-89e6-5a05784dd717.gif)
 
