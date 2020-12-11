@@ -55,12 +55,9 @@
 
 Some videos and prints of the project's look:
 
-![teste](https://user-images.githubusercontent.com/65090609/101859977-7ff0b700-3b4b-11eb-89e6-5a05784dd717.gif)
 ![login](https://user-images.githubusercontent.com/65090609/101952504-875da200-3bd7-11eb-9235-35b18ef9ecb3.png)
-
+![teste](https://user-images.githubusercontent.com/65090609/101859977-7ff0b700-3b4b-11eb-89e6-5a05784dd717.gif)
 ![notas](https://user-images.githubusercontent.com/65090609/101860280-35236f00-3b4c-11eb-9139-ce0096db269e.gif)
-![createnotes](https://user-images.githubusercontent.com/65090609/101952598-aa885180-3bd7-11eb-8d02-64f6e4b76d04.png)
-
 
 ---
 
