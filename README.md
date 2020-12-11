@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/65090609/101854663-b8d75e80-3b40-11eb-91e9-949da6a55b46.png" alt="Dear.io project logo">
 </div>
-
+https://img.shields.io/github/license/GabrielGust/dear.io
 <h4 align="center"> 
 	The dear.io was finalized, but I accept change tips  ✔️
 </h4>
