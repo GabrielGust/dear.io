@@ -124,7 +124,7 @@ $ localhost/dear-io
 <a href="https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/">
 <img style="border-radius: 100px;" src="https://avatars3.githubusercontent.com/u/65090609?s=460&u=7439510aef27e2e881033aa12c2fe840f6743ed8&v=4" width="200px;" alt="Foto de perfil"/>
 <br>
-<sub><p><b>Gabriel Gustavo<b><p></sub>
+<sub><p font-size='25px'><b>Gabriel Gustavo<b><p></sub>
 <br>
 <br>
 
