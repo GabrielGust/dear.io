@@ -93,9 +93,11 @@ $ cd dear-io
 # Clone this repo
 $ git clone https://github.com/GabrielGust/dear.io.git
 
-# If you are using WAMP copy the repository and paste in: $ C:\wamp64\www
+# If you are using WAMP copy the repository and paste in: 
+$ C:\wamp64\www
 
-# If you are using XAMPP copy the repository and paste in: $ C:\xampp\htdoc
+# If you are using XAMPP copy the repository and paste in: 
+$ C:\xampp\htdoc
 
 # The frontend is now in the localhost folder ready to run
 
@@ -109,7 +111,5 @@ $ git clone https://github.com/GabrielGust/dear.io.git
 
 # With the previous two steps done, you will only need to type in the browser:
 $ localhost/dear-io
-
-# If you are using XAMPP copy the repository and paste in: $ C:\xampp\htdoc
 
 ```
