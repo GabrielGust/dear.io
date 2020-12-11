@@ -53,7 +53,7 @@
 
 ## 🎨 Layout
 
-Some prints of the project's look:
+Some videos of the project's look:
 
 ![teste](https://user-images.githubusercontent.com/65090609/101859977-7ff0b700-3b4b-11eb-89e6-5a05784dd717.gif)
 
