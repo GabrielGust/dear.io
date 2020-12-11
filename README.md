@@ -16,6 +16,10 @@
  <a href="#-features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
+ <a href="#-contributors">Contributors</a> •
+ <a href="#-how-to-contribute-to-the-project">How to contribute</a> •
+ <a href="#-autor">Autor</a> •
+ <a href="#-license">License</a> •
 </p>
 
 
@@ -121,7 +125,7 @@ $ localhost/dear-io
 
 ---
 
-## 👨‍💻 Contribuidores
+## 👨‍💻 Contributors
 
 💜 Um super thanks 👏 para essa galera que fez esse produto sair do campo da ideia e entrar nas lojas de aplicativos :)
 
@@ -133,7 +137,7 @@ $ localhost/dear-io
 
 ---
 
-## 🔧 Como contribuir para o projeto
+## 🔧 How to contribute to the project
 
 1. **Fork** the project.
 2. Create a new branch with your changes: `git checkout -b my-feature`
