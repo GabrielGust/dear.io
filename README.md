@@ -1,7 +1,8 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/65090609/101854663-b8d75e80-3b40-11eb-91e9-949da6a55b46.png" alt="Dear.io project logo">
+</div>
+<div align="center">
     <img alt="GitHub" src="https://img.shields.io/github/license/GabrielGust/dear.io">
-    <img alt="Packagist PHP Version Support" src="https://img.shields.io/packagist/php-v/GabrielGust/dear.io">
 </div>
 
 <h4 align="center"> 
