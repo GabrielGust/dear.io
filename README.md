@@ -80,7 +80,7 @@ $ cd dear-io
 
 # Start your WAMP / XAMPP
 
-# Go to the folder MySQLScript and execute the all the script in PHPMyAdmin or MySQL Workbench
+# Go to the folder MySQLScript and execute all the script in PHPMyAdmin or MySQL Workbench
 
 # After running all the script commands your database will be done
 
