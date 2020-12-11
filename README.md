@@ -121,11 +121,10 @@ $ localhost/dear-io
 
 ## 🧑🏾‍💻 Autor
 
-<a href="https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/">
+<a href="https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/"></a>
 <img style="border-radius: 100px;" src="https://avatars3.githubusercontent.com/u/65090609?s=460&u=7439510aef27e2e881033aa12c2fe840f6743ed8&v=4" width="200px;" alt="Foto de perfil"/>
 <br>
-<sub><p font-size='25px'><b>Gabriel Gustavo<b><p></sub>
-<br>
+<sub><p><b font-size="25px">Gabriel Gustavo<b><p></sub>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/)](https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/) 
