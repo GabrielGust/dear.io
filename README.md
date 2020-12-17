@@ -146,7 +146,7 @@ $ localhost/dear-io
 
 ## 📝 Licence
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE) license.
 
 Made with ❤️ by Gabriel Gustavo [Contact](https://www.linkedin.com/in/gabriel-gustavo-araújo-tinoco-3903241b4/)
 
