@@ -16,7 +16,6 @@
  <a href="#-features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
- <a href="#-contributors">Contributors</a> •
  <a href="#-how-to-contribute-to-the-project">How to contribute</a> •
  <a href="#-autor">Autor</a> •
  <a href="#-license">License</a> •
@@ -122,18 +121,6 @@ $ C:\xampp\htdoc
 $ localhost/dear-io
 
 ```
-
----
-
-## 👨‍💻 Contributors
-
-💙 Special thx Special thanks to my duo and my teacher :)
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/AgataRamos"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64936666?s=460&u=7ba67b1a242bd80ec6acc822550fa977c80923b6&v=4" width="100px;" alt=""/><br /><sub><b>Agata Ramos</b></sub></a><br /><a href="https://github.com/AgataRamos" title="AgataRamosGitHubProfile">👩🏻‍💻</a></td>    
-  </tr>    
-</table>
 
 ---
 
