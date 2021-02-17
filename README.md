@@ -139,7 +139,7 @@ $ localhost/dear-io
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AgataRamos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64936666?s=460&u=7ba67b1a242bd80ec6acc822550fa977c80923b6&v=4" width="100px;" alt=""/><br /><sub><b>Ágata Ligia</b></sub></a><br /><a href="https://github.com/AgataRamos" title="AgataImage">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/AgataRamos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64936666?s=460&u=7ba67b1a242bd80ec6acc822550fa977c80923b6&v=4" width="100px;" alt=""/><br /><sub><b>Ágata Ligia</b></sub></a><br /><a href="https://github.com/AgataRamos" title="AgataImage">👩🏻‍💻</a></td>
   </tr>
 </table>
 
