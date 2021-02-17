@@ -17,6 +17,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-getting-started">Getting Started</a> • 
  <a href="#-how-to-contribute-to-the-project">How to contribute</a> •
+ <a href="#-contributors">Contributors</a> •
  <a href="#-autor">Autor</a> •
  <a href="#-license">License</a> •
 </p>
@@ -135,7 +136,7 @@ $ localhost/dear-io
 
 ## 👨‍💻 Contributors
 
-💜 Um super thanks 👏 para essa galera que fez esse produto sair do campo da ideia e entrar nas lojas de aplicativos :)
+💙 A special thanks to my work partner and classmate, who helped me during the development of the project. 👏 
 
 <table>
   <tr>
