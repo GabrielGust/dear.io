@@ -62,7 +62,7 @@ Some videos of the project's look:
 
 ## 👣 Getting started
 
-This project is divided into two parts:
+This project is divided into three parts:
 1. Frontend (branch master) 
 2. Backend (assets directory)
 3. DataBase (MySQLScript directory)
