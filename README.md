@@ -157,7 +157,7 @@ $ localhost/dear-io
 
 ---
 
-## 📝 Licence
+## 📝 License
 
 This project is under the [MIT](./LICENSE) license.
 
